@@ -36,8 +36,8 @@ The project follows a structured analytics lifecycle:
 - 💍 Married employees make up 42.5% of the workforce.  
 - 🧩 Dissatisfaction is higher in relationships, job satisfaction, and work-life balance compared to environmental satisfaction.  
 
-**Screenshot:**  
-![Demographics Dashboard](link-to-image-demographics)
+**Demographics Dashboard:**  
+![Demographics Dashboard](https://github.com/Magdy-ElRawy/HR-Analytics-in-Power-BI/blob/main/Demographics.png)
 
 ---
 
@@ -52,30 +52,23 @@ The project follows a structured analytics lifecycle:
 - 💼 Single employees have a higher attrition rate of 23.3%.  
 - 💰 Shorter tenures and lower salaries correlate with higher turnover rates.  
 
-**Screenshot:**  
-![Attrition Analysis Dashboard](link-to-image-attrition)
+**Attrition Analysis Dashboard:**  
+![Attrition Analysis Dashboard](https://github.com/Magdy-ElRawy/HR-Analytics-in-Power-BI/blob/main/Attrition.png)
 
 ---
 
 ## 🗂️ Dimensional Modeling  
 
-The project uses a star schema for efficient reporting and analysis. Below is the dimensional model designed for this project:  
+The project uses a dimensional modeling for efficient reporting and analysis. Below is the dimensional model designed for this project:  
 
-![Dimensional Model](link-to-image-dimensional-model)  
-
-- **Fact Table**: Employee Metrics (e.g., salaries, attrition rates).  
-- **Dimension Tables**:  
-  - Departments  
-  - Locations  
-  - Employee Demographics  
-  - Time  
+**Dimensional Model:**
+![Dimensional Model](https://github.com/Magdy-ElRawy/HR-Analytics-in-Power-BI/blob/main/Dimensional%20Modeling.png)  
 
 ---
 
 ## 🔧 Tools & Technologies  
 - **Power BI**: For data visualization and dashboard creation.  
-- **DAX**: Used for custom measures and calculated columns.  
-- **Data Sources**: [Specify your data source, e.g., Excel, SQL databases].  
+- **DAX**: Used for custom measures and calculated columns. 
 
 ---
 
@@ -84,16 +77,10 @@ This project illustrates how data analytics can enhance HR strategy by providing
 
 ---
 
-## 📷 Additional Screenshots  
-- [Link to more screenshots or demo videos]  
-
----
-
 ## 📫 Contact  
 For questions or feedback, feel free to reach out:  
-- **Email**: [your.email@example.com](mailto:your.email@example.com)  
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)  
+- **Email**: [your.email@example.com](mailto:magdyelrawy2022@gmial.com)  
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/magdy-el-rawy/)  
 
 ---
 
