@@ -79,8 +79,8 @@ This project illustrates how data analytics can enhance HR strategy by providing
 
 ## 📫 Contact  
 For questions or feedback, feel free to reach out:  
-- **Email**: [your.email@example.com](mailto:magdyelrawy2022@gmial.com)  
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/magdy-el-rawy/)  
+- **Email**: [magdyelrawy2022@gmial.com](mailto:magdyelrawy2022@gmial.com)  
+- **LinkedIn**: [https://www.linkedin.com/in/magdy-el-rawy/](https://www.linkedin.com/in/magdy-el-rawy/)  
 
 ---
 
