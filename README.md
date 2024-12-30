@@ -24,7 +24,7 @@ The project follows a structured analytics lifecycle:
 - 🌍 Most employees reside in California, with a total of 722.  
 - 💸 Human Resources leads in average salary at $119,699.  
 
-**Screenshot:**  
+**Overview Dashboard:**  
 ![Overview Dashboard](https://github.com/Magdy-ElRawy/HR-Analytics-in-Power-BI/blob/main/Overview.png)
 
 ---
