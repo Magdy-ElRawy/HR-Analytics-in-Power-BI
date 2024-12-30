@@ -68,7 +68,9 @@ The project uses a dimensional modeling for efficient reporting and analysis. Be
 
 ## 🔧 Tools & Technologies  
 - **Power BI**: For data visualization and dashboard creation.  
-- **DAX**: Used for custom measures and calculated columns. 
+- **DAX**: Used for custom measures and calculated columns.
+- **Excel**: Used for data preparation and transformation.
+- **Python**: Used for data preprocessing. 
 
 ---
 
